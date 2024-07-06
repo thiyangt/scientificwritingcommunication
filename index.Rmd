@@ -111,7 +111,7 @@ Scientific writing and communication refer to the skills and practices involved 
 
 ## Thesis Writing
 
-[Slides ](https://thiyanga-scientificwriting.netlify.app/slides/1_thesiswriting/main#1)
+[Slides](https://thiyanga-scientificwriting.netlify.app/slides/1_thesiswriting/main#1)
 
 
 ## Scientific writing with overleaf
