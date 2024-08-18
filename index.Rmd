@@ -2,7 +2,6 @@
 title: "DSA 557 1.0 Scientific Writing and Communication"
 author: 
   - "Dr Thiyanga S. Talagala"
-date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -109,9 +108,7 @@ Scientific writing and communication refer to the skills and practices involved 
 
 5. Audience Awareness: Tailoring the communication style and content to the audience's level of expertise and interest.
 
-## Thesis Writing
-
-[Slides](https://thiyanga-scientificwriting.netlify.app/slides/1_thesiswriting/main#1)
+---
 
 
 ## Scientific writing with overleaf
@@ -119,3 +116,10 @@ Scientific writing and communication refer to the skills and practices involved 
 Sign up at https://www.overleaf.com/
 
 In-class demo
+
+---
+
+## Thesis Writing
+
+[Slides](https://thiyanga-scientificwriting.netlify.app/slides/1_thesiswriting/main#1)
+
