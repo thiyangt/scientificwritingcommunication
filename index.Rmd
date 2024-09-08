@@ -405,3 +405,11 @@ Additional reading: https://guides.lib.umich.edu/c.php?g=283340&p=9133330
 ## Grammar of Graphics
 
 [Demo](https://blog.tidy-intelligence.com/posts/ggplot2-vs-plotnine/)
+
+---
+
+## Other topics
+
+- Grey Literature
+
+- Managing Citations: EndNote, Zotero, Mendeley
